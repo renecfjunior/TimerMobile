@@ -39,7 +39,7 @@
 </h2>
 <p align="center">
   Para instalar é só ir em "Releases" no canto direito da tela e selecionar a versão mais recente.<br>
-  Se você tiver o android studio instalado é só baixar o arquivo source code e executar o projeto.<br>
+  Se você tiver o android studio instalado é só baixar o arquivo source code.zip e executar o projeto.<br>
   Caso não tenha o android studio, disponibilizei o arquivo.apk para executar o app em seu smartphone.<br>
   Para instalar é só executar o arquivo "cronometro1.0.apk" em seu smartphone e instalar.
 </p>

@@ -38,9 +38,10 @@
   Instalação :rocket:
 </h2>
 <p align="center">
-  Se você tiver o android studio instalado é só baixar os arquivos e executar o projeto.<br>
+  Para instalar é só ir em "Releases" no canto direito da tela e selecionar a versão mais recente.<br>
+  Se você tiver o android studio instalado é só baixar o arquivo source code e executar o projeto.<br>
   Caso não tenha o android studio, disponibilizei o arquivo.apk para executar o app em seu smartphone.<br>
-  Para instalar é só executar o arquivo "app-release.apk" em seu smartphone e instalar.
+  Para instalar é só executar o arquivo "cronometro1.0.apk" em seu smartphone e instalar.
 </p>
 
 <h2 id="license" align="center">

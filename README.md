@@ -29,10 +29,10 @@
   Projeto :technologist:
 </h2>
 <p align="center">
-  Timer com botões para Iniciar,Pausar e Reiniciar.<br> 
-  Ao clicar em Reiniciar o App Apresenta uma mensagem pedindo a confirmação do usuario. <br>
-  O timer tem a funcionalidade de continuar rodando Ontime após o usúario sair do app sem fechá-lo.<br>
-  Projeto bem simples desenvolvido com o intuito de praticar a linguagem Java. <br>
+  • Timer com botões para Iniciar,Pausar e Reiniciar.<br> 
+ • Ao clicar em Reiniciar o App Apresenta uma mensagem pedindo a confirmação do usuario. <br>
+  • O timer tem a funcionalidade de continuar rodando Ontime após o usúario sair do app sem fechá-lo.<br>
+  • Projeto bem simples desenvolvido com o intuito de praticar a linguagem Java. <br>
   
   <h2 id="install" align="center">
   Instalação :rocket:
